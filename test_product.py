@@ -1,5 +1,6 @@
 from product import product_details
 
+
 def test_product_details():
     result = product_details(101, "Laptop", 2, 45000)
 
